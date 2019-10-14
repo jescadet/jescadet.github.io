@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ressia/ressia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+I finished my PhD at the [Software Composition Group](http://scg.unibe.ch/), [University of Bern](https://www.inf.unibe.ch/) in 2012.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My main topic of research during my PhD was "Object-Centric Reflection". My thesis addresses the object paradox while reshaping the reflection space in unified and uniform way. You can access my thesis [online](http://scg.unibe.ch/scgbib?query=Ress12d&display=abstract) or acquire the book version at [lulu](http://www.lulu.com/shop/jorge-ressia/object-centric-reflection/paperback/product-20402039.html).
 
-```markdown
-Syntax highlighted code block
+My research interests are Object-Oriented Programming and Design with particular emphasis on reflection and meta-programming. I am also interested in the epistemology and ontology behind the computational models that we build in order to represent reality.
 
-# Header 1
-## Header 2
-### Header 3
+# Projects
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Some projects I am author are:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ressia/ressia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Bifröst](http://scg.unibe.ch/research/bifrost), a Reflection unification framework.
+[Chameleon](http://scg.unibe.ch/research/bifrost/chameleon), an event-oriented decoupled instrumentation technique.
+[MetaSpy](http://scg.unibe.ch/research/bifrost/metaspy), domain-specific profilers.
+[OCD](http://scg.unibe.ch/research/bifrost/ocd), object-centric debugging
+[Prisma](http://scg.unibe.ch/research/bifrost/prisma), reflection scoped to execution.
+[Subjectopia](http://scg.unibe.ch/research/subjectopia), a system to model subjective behavior.
+[Talents](http://scg.unibe.ch/research/bifrost/talents), dynamically composable units of reuse.
+[TextLint](http://scg.unibe.ch/research/textlint), lint-like tool for written style validation.
