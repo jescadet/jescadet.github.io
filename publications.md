@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
 [Up to date list of publications.](http://scg.unibe.ch/scgbib?_k=mXyJUTiT&query=ressia&sortBy=category)
 
 ## Refereed Papers in International Conferences
