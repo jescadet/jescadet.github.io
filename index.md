@@ -1,5 +1,5 @@
 
-[Thesis](thesis.jpeg)
+![Thesis](/assets/thesis.jpeg)
 
 I finished my PhD at the [Software Composition Group](http://scg.unibe.ch/), [University of Bern](https://www.inf.unibe.ch/) in 2012.
 
