@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jorge Ressia
+title: Jessica Cadet
 #email: bifrost.gmbh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jorge Ressia
+  Jessica Cadet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jorgeressia
-github_username:  ressia
+#twitter_username: jorgeressia
+github_username:  jescadet
 
 # Build settings
 theme: minima
@@ -34,7 +34,7 @@ plugins:
   - jekyll-seo-tag
 
 
-google_analytics: G-MFW4B5TN00
+#google_analytics: G-MFW4B5TN00
 
 
 
